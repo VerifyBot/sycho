@@ -9,8 +9,9 @@ Then imagine printing the PDFs or writing answers on a notebook. <br> <br>
 
 **passé** <br> <br>
 
-> Why not code yourself an app that automatically parses the questions from the public PDFs
-> and then spend time designing a UI for that, with cool features? <br> <br>
+Why not code yourself an app that automatically <br>
+parses the questions from the public PDFs and then <br>
+spend time designing a UI for that, with cool features? <br> <br>
 
 **That's right! 😂**
 
