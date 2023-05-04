@@ -5,7 +5,7 @@
 
 Imagine studying from books when you have technology. <br>
 Then imagine paying for courses when the data is public. <br>
-Then imagine printing the PDFs or writing answers on a notebook. <br> <br>
+Then imagine printing the PDFs or writing answers on a piece of paper. <br> <br>
 
 **passé** <br> <br>
 
