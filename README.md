@@ -1,6 +1,6 @@
 # sycho -- Helps you study for the Psychometry!
 
-**`⚠️ NOTE`** Keep in mind that this project is designed to use as a mobile PWA, so it won't look good (or might not work properly) on larger screens.
+**`⚠️ NOTE`** Keep in mind that this project is designed to be used as a mobile PWA, so it won't look good (or might not work properly) on larger screens.
 
 ## 🏡 Introduction
 
