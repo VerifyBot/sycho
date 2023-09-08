@@ -1,4 +1,4 @@
-# sycho -- Helps you study for the Psychometry!
+# sycho -- Study for the Psychometry conveniently!
 
 **Head over to https://sycho-385420.web.app/ to start studying!**
 
