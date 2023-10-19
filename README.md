@@ -8,13 +8,13 @@
 
 ## 🏡 Introduction
 
-_(written by ChatGPT 😉)_
+_(written by ChatGPT)_
 
 Introducing **_sycho_**: Your Passport to Effortless Psychometric Exam Success!
 
 Say goodbye to tedious book and PDF study sessions! Enter the world of **_sycho_**, where psychometric exam preparation transforms into an exciting, on-the-go adventure right from your phone. With a vast question bank sourced from https://www.nite.org.il/psychometric-entrance-test/preparation/hebrew-practice-tests/, this app lets you practice randomly or target specific moed questions.
 
-Whether you thrive under pressure or prefer a relaxed pace, **_sycho_** adapts to your style. Practice with or without time limits, and if you stumble upon unfamiliar words, a simple tap reveals their meanings. After your quiz, receive a score and in-depth explanations to master every question. Elevate your study experience with **_sycho_** and embark on your path to psychometric exam success."
+Whether you thrive under pressure or prefer a relaxed pace, **_sycho_** adapts to your style. Practice with or without time limits, and if you stumble upon unfamiliar words, a simple tap reveals their meanings. After your quiz, receive a score and in-depth explanations to master every question. Elevate your study experience with **_sycho_** and embark on your path to psychometric exam success.
 
 ## 🪟 Images
 
