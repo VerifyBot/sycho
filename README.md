@@ -1,4 +1,6 @@
-# sycho -- Study for the Psychometry conveniently!
+# sycho
+
+<p>Study for the Psychometry conveniently!</p>
 
 **Head over to https://sycho-385420.web.app/ to start studying!**
 
